@@ -1,0 +1,1 @@
+<?php $conn=mysqli_connect('localhost','codeapka_offers','*_$FP-^U$vEy','codeapka_offers');?>

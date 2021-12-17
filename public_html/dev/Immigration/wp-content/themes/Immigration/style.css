@@ -1,0 +1,33 @@
+/*
+Theme Name: Immigration
+Text Domain: Immigration
+Version: 1.0
+
+Requires PHP: 5.2.4
+Author: Umakant
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.wpcf7-form {margin: 46px;}
+.wpcf7-form h1 , .wpcf7-form h2 , .wpcf7-form h6{text-align: center !important}
+
+.wpcf7-form textarea {
+        height: 100px !important;
+		width: 100% !important;
+}
+
+.wpcf7-form input[type='text'], .wpcf7-form select,.wpcf7-form input[type='email'],.wpcf7-form input[type='number'] {
+	width: 100% !important;
+     border: none !important;
+    background-color: #eee !important;
+    color: #333 !important;
+    font-family: roboto !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    padding: 5px 10px !important;
+    border-radius: 0 !important;
+    resize: none !important; 
+}
+.wpcf7-form .showinrow{display: flex !important;}
